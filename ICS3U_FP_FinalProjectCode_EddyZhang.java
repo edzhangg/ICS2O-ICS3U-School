@@ -40,7 +40,7 @@ public class ICS3U_FP_FinalProjectCode_EddyZhang {
 		String computerName = computerNames[randomNum1];
 		String computerCity = cityNames[randomNum2];
 		System.out.println("I'm Steve Harvey and like always, we got another good one for you today.  \nFrom "+ userCity +", it's "+ userName+""
-				+ "! \nAnd from "+ computerCity +", they’re playing against "+computerName+"! \nLet's start the game! After 5 rounds, whoever has the most points wins!");
+				+ "! \nAnd from "+ computerCity +", theyâ€™re playing against "+computerName+"! \nLet's start the game! After 5 rounds, whoever has the most points wins!");
 		hold();
 		hold();
 		return userName;
@@ -254,22 +254,3 @@ public class ICS3U_FP_FinalProjectCode_EddyZhang {
 		}
 	}
 }
-//                 _oo0oo_
-//                o8888888o
-//                88" . "88
-//                (| -_- |)
-//                0\  =  /0
-//              ___/`---'\___
-//            .' \\|     |// '.
-//           / \\|||  :  |||// \
-//          / _||||| -:- |||||- \
-//         |   | \\\  -  /// |   |
-//         | \_|  ''\---/''  |_/ |
-//         \  .-\__  '-'  ___/-. /
-//        ___'. .'  /--.--\  `. .'___
-//     ."" '<  `.___\_<|>_/___.' >' "".
-//    | | :  `- \`.;`\ _ /`;.`/ - ` : | |
-//     \ \ `_.   \_ __\ /__ _/   .-` /  /
-//=====`-.____`.___ \_____/___.-`___.-'=====
-//                  `=---='
-//may buddha protect this code from bugs
